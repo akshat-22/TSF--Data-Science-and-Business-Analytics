@@ -15,6 +15,10 @@ In this Repository I have put upon the various Task completed by me as an Intern
  #### Dataset used;-https://bit.ly/3kXTdox
  In this task I had implemented KNN Algorithm on iris dataset to predict the optimum no. of clusters using Elbow Method and thus also visualize and represent data  using different plots and graphs for better inference on data.
  
+ ## Task 6- Prediction using Decision Tree Algorithm
+ #### Dataset used;-https://bit.ly/3kXTdox
+ In this task I had Created a Decision Tree Classifier  on iris dataset to  visualize it graphically and to predict any new data accordingly.
+ 
 ### To Follow The Sparks Foundation: 
 #### On LinkedIn :https://www.linkedin.com/groups/10379184/
 #### Website:https://www.thesparksfoundationsingapore.org/
