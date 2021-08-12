@@ -12,11 +12,11 @@ In this Repository I have put upon the various Task completed by me as an Intern
  In this task a simple Linear regression Algorithm was used to predict the scores of students on the basis of the no. of hours they study per day.
  
  ## Task 2- Prediction using Unsupervised ML
- #### Dataset used;-https://bit.ly/3kXTdox
+ #### Dataset used:-https://bit.ly/3kXTdox
  In this task I had implemented KNN Algorithm on iris dataset to predict the optimum no. of clusters using Elbow Method and thus also visualize and represent data  using different plots and graphs for better inference on data.
  
  ## Task 6- Prediction using Decision Tree Algorithm
- #### Dataset used;-https://bit.ly/3kXTdox
+ #### Dataset used:-https://bit.ly/3kXTdox
  In this task I had Created a Decision Tree Classifier  on iris dataset to  visualize it graphically and to predict any new data accordingly.
  
 ### To Follow The Sparks Foundation: 
